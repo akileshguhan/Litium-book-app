@@ -1,0 +1,11 @@
+# Dependencies
+/node_modules
+
+# Secrets
+.env.local
+
+# Next.js cache
+/.next
+
+# OS files
+.DS_Store
